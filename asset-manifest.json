@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/task-news-react/build/static/css/main.96a024e7.chunk.css",
+    "main.js": "/task-news-react/build/static/js/main.efcf4506.chunk.js",
+    "main.js.map": "/task-news-react/build/static/js/main.efcf4506.chunk.js.map",
+    "runtime~main.js": "/task-news-react/build/static/js/runtime~main.a57c00bf.js",
+    "runtime~main.js.map": "/task-news-react/build/static/js/runtime~main.a57c00bf.js.map",
+    "static/js/2.d45dc057.chunk.js": "/task-news-react/build/static/js/2.d45dc057.chunk.js",
+    "static/js/2.d45dc057.chunk.js.map": "/task-news-react/build/static/js/2.d45dc057.chunk.js.map",
+    "index.html": "/task-news-react/build/index.html",
+    "precache-manifest.e76d3081d3a6b9654c43bd664db2188c.js": "/task-news-react/build/precache-manifest.e76d3081d3a6b9654c43bd664db2188c.js",
+    "service-worker.js": "/task-news-react/build/service-worker.js",
+    "static/css/main.96a024e7.chunk.css.map": "/task-news-react/build/static/css/main.96a024e7.chunk.css.map",
+    "static/media/Comment.scss": "/task-news-react/build/static/media/comment9.3ec355e5.jpg",
+    "static/media/Article.scss": "/task-news-react/build/static/media/img2.b28b2393.png"
+  }
+}
